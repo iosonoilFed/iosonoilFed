@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @iosonoilFed
-- 👀 I’m interested in coding, aviation, railway
-- 🌱 I’m currently trying to start learning javascript 
-- 💞️ I’m looking to collaborate on minecraft transit railway
-- ⚡ Fun fact: i really like aviation
+I made this account because i got banned for reasons. I really like aviation and i hope to start learning js if my motivation collaborates.
 
 <!---
 iosonoilFed/iosonoilFed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
